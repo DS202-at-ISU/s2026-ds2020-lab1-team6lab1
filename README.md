@@ -1,6 +1,28 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/c45zDV1M)
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
+
+### step 12.2
+
+- Ryan’s note: Creating our repository was straightforward and the
+  instructions made it clear.
+
+### step 12.3
+
+- Ryan’s note: I had accidentally skipped the git configuration part
+  when creating the R Studio project but it was an easy fix; I have
+  experience with git commands in the terminal.
+
+### step 12.4
+
+- Ryan’s note:
+
+### step 12.5
+
+- Ryan’s note:
+
+### step 12.6
+
+- Ryan’s note:
 
 # Lab report \#1
 
@@ -17,3 +39,5 @@ All submissions to the github repo will be automatically uploaded for
 grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
+
+This is a line from RStudio

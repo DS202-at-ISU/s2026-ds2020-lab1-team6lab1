@@ -9,6 +9,26 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+### step 12.2
+
+- Ryan's note: Creating our repository was straightforward and the instructions made it clear.
+
+### step 12.3
+
+- Ryan's note: I had accidentally skipped the git configuration part when creating the R Studio project but it was an easy fix; I have experience with git commands in the terminal.
+
+### step 12.4
+
+- Ryan's note:
+
+### step 12.5
+
+- Ryan's note:
+
+### step 12.6
+
+- Ryan's note:
+
 # Lab report #1
 
 Follow the instructions posted at https://ds202-at-isu.github.io/labs.html for the lab assignment. The work is meant to be finished during the lab time, but you have time until Monday evening to polish things.
