@@ -14,15 +14,20 @@
 
 ### step 12.4
 
-- Ryan’s note:
+- Ryan’s note: Instructions make it clear on how to commit using R
+  Studio, but I think I would rather use git commands in the terminal
+  since I’m already comfortable with that.
 
 ### step 12.5
 
-- Ryan’s note:
+- Ryan’s note: Similar to step 12.4, instructions were clear and I had
+  no problems using R Studio’s UI to make changes to the remote
+  repository.
 
 ### step 12.6
 
-- Ryan’s note:
+- Ryan’s note: Able to see my changes from the previous steps and the
+  message from R Studio in the readme.
 
 # Lab report \#1
 
@@ -39,5 +44,3 @@ All submissions to the github repo will be automatically uploaded for
 grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
-
-This is a line from RStudio
