@@ -17,10 +17,10 @@
 - Ishan’s note: I successfully cloned the project from the github repo
   on RStudio on my computer.
 
-- I was able to add a new project in R studio from the git repository. I
-  had previous git experience from other classes, so it took a little
-  longer to figure out the R studio method than to just use the
-  terminal.
+- Mason’s note: I was able to add a new project in R studio from the git
+  repository. I had previous git experience from other classes, so it
+  took a little longer to figure out the R studio method than to just
+  use the terminal.
 
 ### step 12.4
 
@@ -30,6 +30,8 @@
 
 - Ishan’s note: I wrote this line in RStudio and saved the changes to
   the md file.
+
+- Mason’s note: this line was written in R studio
 
 ### step 12.5
 
@@ -41,12 +43,17 @@
   on the repo. Update: I was trying to push without comitting, so the
   repo wasn’t updating.
 
+- Mason’s note: I got a commit and push to work at first, though I
+  forgot to knit recently so it wasn’t properly updated
+
 ### step 12.6
 
 - Ryan’s note: Able to see my changes from the previous steps and the
   message from R Studio in the readme.
 
 - Ishan’s note: I can see my changes in the github repo.
+
+- Mason’s note: I can see my commits pushed to the remote repo
 
 # Lab report \#1
 
