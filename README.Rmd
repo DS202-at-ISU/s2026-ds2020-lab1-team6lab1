@@ -16,18 +16,27 @@ knitr::opts_chunk$set(echo = TRUE)
 ### step 12.3
 
 - Ryan's note: I had accidentally skipped the git configuration part when creating the R Studio project but it was an easy fix; I have experience with git commands in the terminal.
+  
+* Ishan's note: I successfully cloned the project from the github repo on RStudio 
+on my computer.
 
 ### step 12.4
 
 - Ryan's note: Instructions make it clear on how to commit using R Studio, but I think I would rather use git commands in the terminal since I'm already comfortable with that.
 
+* Ishan's note: I wrote this line in RStudio and saved the changes to the md file. 
+
 ### step 12.5
 
 - Ryan's note: Similar to step 12.4, instructions were clear and I had no problems using R Studio's UI to make changes to the remote repository.
 
+* Ishan's note: I pushed my changes many times but didn't see anything on the repo. Update: I was trying to push without comitting, so the repo wasn't updating. 
+
 ### step 12.6
 
 - Ryan's note: Able to see my changes from the previous steps and the message from R Studio in the readme.
+
+* Ishan's note: I can see my changes in the github repo.
 
 # Lab report #1
 

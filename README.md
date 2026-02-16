@@ -22,7 +22,7 @@
   since I’m already comfortable with that.
 
 - Ishan’s note: I wrote this line in RStudio and saved the changes to
-  the md file. I commit my changes.
+  the md file.
 
 ### step 12.5
 
@@ -30,10 +30,16 @@
   no problems using R Studio’s UI to make changes to the remote
   repository.
 
+- Ishan’s note: I pushed my changes many times but didn’t see anything
+  on the repo. Update: I was trying to push without comitting, so the
+  repo wasn’t updating.
+
 ### step 12.6
 
 - Ryan’s note: Able to see my changes from the previous steps and the
   message from R Studio in the readme.
+
+- Ishan’s note: I can see my changes in the github repo.
 
 # Lab report \#1
 
