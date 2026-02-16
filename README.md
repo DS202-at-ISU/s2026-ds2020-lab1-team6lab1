@@ -12,11 +12,17 @@
   when creating the R Studio project but it was an easy fix; I have
   experience with git commands in the terminal.
 
+- Ishan’s note: I successfully cloned the project from the github repo
+  on RStudio on my computer.
+
 ### step 12.4
 
 - Ryan’s note: Instructions make it clear on how to commit using R
   Studio, but I think I would rather use git commands in the terminal
   since I’m already comfortable with that.
+
+- Ishan’s note: I wrote this line in RStudio and saved the changes to
+  the md file. I commit my changes.
 
 ### step 12.5
 
