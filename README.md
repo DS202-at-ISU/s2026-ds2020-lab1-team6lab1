@@ -5,6 +5,8 @@
 
 - Ryan’s note: Creating our repository was straightforward and the
   instructions made it clear.
+- Mason’s note: Our repository was already created, but I know how to
+  create one my following the instructions.
 
 ### step 12.3
 
@@ -14,6 +16,11 @@
 
 - Ishan’s note: I successfully cloned the project from the github repo
   on RStudio on my computer.
+
+- I was able to add a new project in R studio from the git repository. I
+  had previous git experience from other classes, so it took a little
+  longer to figure out the R studio method than to just use the
+  terminal.
 
 ### step 12.4
 
